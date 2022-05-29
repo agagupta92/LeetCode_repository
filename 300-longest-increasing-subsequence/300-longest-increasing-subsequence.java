@@ -1,12 +1,24 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
        int n = nums.length;
-        int dp[][] = new int[n][n+1];
+        int dp[] = new int[n];
         for(int i =0;i<n;i++)
-            for(int j =0;j<n+1;j++)
-                dp[i][j] = -1;
+            dp[i] = 1;
+        int maxi = 1;
+        for(int i =0;i <n;i++){
+            for(int prev =0 ;prev<i;prev++){
+                if(nums[prev]<nums[i] && 1 + dp[prev]>dp[i]){
+                    dp[i] = 1+dp[prev];
+                }
+                if(dp[i]>maxi){
+                    maxi = dp[i];
+                }
+            }
+        }
         
-        return recu(0,-1,nums,n,dp);
+        return maxi;
+        
+        //return recu(0,-1,nums,n,dp);
     }
     
     public int recu(int ind,int prev , int [] nums,int n,int[][] dp){
