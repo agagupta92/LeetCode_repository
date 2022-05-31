@@ -1,24 +1,33 @@
 class Solution {
     public int findNumberOfLIS(int[] nums) {
-    int n = nums.length, res = 0, max_len = 0;
-        int[] len =  new int[n], cnt = new int[n];
-        for(int i = 0; i<n; i++){
-            len[i] = cnt[i] = 1;
-            for(int j = 0; j <i ; j++){
-                if(nums[i] > nums[j]){
-                    if(len[i] == len[j] + 1)cnt[i] += cnt[j];
-                    if(len[i] < len[j] + 1){
-                        len[i] = len[j] + 1;
-                        cnt[i] = cnt[j];
-                    }
+        
+        int n = nums.length;
+        int dp[] = new int[n];
+        int cnt[] = new int[n];
+        for(int i =0;i<n;i++){
+            dp[i] = 1;
+            cnt[i] =1;
+        }
+        int maxi = 1;
+        for(int i =0;i <n;i++){
+            for(int prev =0 ;prev<i;prev++){
+                if(nums[prev]<nums[i] && 1 + dp[prev]>dp[i]){
+                    dp[i] = 1+dp[prev];
+                    cnt[i]=cnt[prev];
+                } else if(nums[prev]<nums[i] && 1 + dp[prev] == dp[i]){
+                     cnt[i] +=cnt[prev];
+                }
+                if(dp[i]>maxi){
+                    maxi = dp[i];
                 }
             }
-            if(max_len == len[i])res += cnt[i];
-            if(max_len < len[i]){
-                max_len = len[i];
-                res = cnt[i];
-            }
         }
-        return res;    
+        
+        int nos =0;
+        for(int i =0;i <n ;i++){
+            if(dp[i] == maxi) nos+=cnt[i];
+        }
+        
+        return nos;
     }
 }
