@@ -1,9 +1,19 @@
 class Solution {
     public int minCut(String s) {
         int n = s.length();
-        int dp[] = new int[n];
-        Arrays.fill(dp,-1);
-        return func(0,n,s,dp)-1;
+        int dp[] = new int[n+1];
+        Arrays.fill(dp,0);
+        for(int i = n-1;i>=0;i--){
+            int mincost = Integer.MAX_VALUE;
+            for(int j =i;j<n;j++){
+                if(isPalindrome(s,i,j)){
+                    int cost = 1 + dp[j+1];
+                    mincost = Math.min(mincost,cost);
+                }
+            }
+            dp[i] = mincost; 
+        }
+        return dp[0]-1;
     }
     public int func(int i,int n ,String s,int[]dp){
         if(i ==n) return 0;
