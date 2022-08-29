@@ -1,6 +1,8 @@
 class Solution {
-    public void count(char[][] grid,int i,int j,int row,int col) {
-    if(i<0 || i>=row || j<0 || j>=col || grid[i][j]=='0')
+     public void count(char[][] grid, int i, int j, int row, int col)
+    {
+        
+        if(i<0 || i>=row || j<0 || j>=col || grid[i][j]=='0')
             return;
         
         grid[i][j] = '0';
@@ -33,5 +35,7 @@ class Solution {
         }
         
         return countisland;
+        
+        
     }
 }
