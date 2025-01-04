@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/agagupta92/LeetCode_repository/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/agagupta92/LeetCode_repository/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/agagupta92/LeetCode_repository/tree/master/0143-reorder-list) |
 ## Two Pointers
@@ -88,5 +89,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/agagupta92/LeetCode_repository/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/agagupta92/LeetCode_repository/tree/master/0143-reorder-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/agagupta92/LeetCode_repository/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
