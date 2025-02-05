@@ -57,12 +57,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agagupta92/LeetCode_repository/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0287-find-the-duplicate-number](https://github.com/agagupta92/LeetCode_repository/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/agagupta92/LeetCode_repository/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/agagupta92/LeetCode_repository/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agagupta92/LeetCode_repository/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/agagupta92/LeetCode_repository/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/agagupta92/LeetCode_repository/tree/master/0141-linked-list-cycle) |
+| [0560-subarray-sum-equals-k](https://github.com/agagupta92/LeetCode_repository/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,4 +112,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/agagupta92/LeetCode_repository/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/agagupta92/LeetCode_repository/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
