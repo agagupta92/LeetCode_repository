@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agagupta92/LeetCode_repository/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0287-find-the-duplicate-number](https://github.com/agagupta92/LeetCode_repository/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/agagupta92/LeetCode_repository/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/agagupta92/LeetCode_repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/agagupta92/LeetCode_repository/tree/master/0303-range-sum-query-immutable) |
 ## Linked List
 |  |
 | ------- |
@@ -104,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/agagupta92/LeetCode_repository/tree/master/0287-find-the-duplicate-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/agagupta92/LeetCode_repository/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
