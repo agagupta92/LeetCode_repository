@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/agagupta92/LeetCode_repository/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/agagupta92/LeetCode_repository/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/agagupta92/LeetCode_repository/tree/master/0560-subarray-sum-equals-k) |
+| [1014-k-closest-points-to-origin](https://github.com/agagupta92/LeetCode_repository/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agagupta92/LeetCode_repository/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/agagupta92/LeetCode_repository/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/agagupta92/LeetCode_repository/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/agagupta92/LeetCode_repository/tree/master/0002-add-two-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/agagupta92/LeetCode_repository/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,10 +133,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/agagupta92/LeetCode_repository/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/agagupta92/LeetCode_repository/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/agagupta92/LeetCode_repository/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/agagupta92/LeetCode_repository/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -142,4 +147,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/agagupta92/LeetCode_repository/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/agagupta92/LeetCode_repository/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/agagupta92/LeetCode_repository/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
