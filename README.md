@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/agagupta92/LeetCode_repository/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/agagupta92/LeetCode_repository/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/agagupta92/LeetCode_repository/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agagupta92/LeetCode_repository/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/agagupta92/LeetCode_repository/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Array
 |  |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/agagupta92/LeetCode_repository/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/agagupta92/LeetCode_repository/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/agagupta92/LeetCode_repository/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agagupta92/LeetCode_repository/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0525-contiguous-array](https://github.com/agagupta92/LeetCode_repository/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/agagupta92/LeetCode_repository/tree/master/0560-subarray-sum-equals-k) |
 | [1014-k-closest-points-to-origin](https://github.com/agagupta92/LeetCode_repository/tree/master/1014-k-closest-points-to-origin) |
@@ -137,11 +139,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/agagupta92/LeetCode_repository/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agagupta92/LeetCode_repository/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/agagupta92/LeetCode_repository/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/agagupta92/LeetCode_repository/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agagupta92/LeetCode_repository/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/agagupta92/LeetCode_repository/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/agagupta92/LeetCode_repository/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
@@ -161,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/agagupta92/LeetCode_repository/tree/master/0789-kth-largest-element-in-a-stream) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agagupta92/LeetCode_repository/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
