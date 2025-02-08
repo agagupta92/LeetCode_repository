@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agagupta92/LeetCode_repository/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0525-contiguous-array](https://github.com/agagupta92/LeetCode_repository/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/agagupta92/LeetCode_repository/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/agagupta92/LeetCode_repository/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/agagupta92/LeetCode_repository/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/agagupta92/LeetCode_repository/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/agagupta92/LeetCode_repository/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/agagupta92/LeetCode_repository/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/agagupta92/LeetCode_repository/tree/master/0692-top-k-frequent-words) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/agagupta92/LeetCode_repository/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Divide and Conquer
 |  |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/agagupta92/LeetCode_repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0692-top-k-frequent-words](https://github.com/agagupta92/LeetCode_repository/tree/master/0692-top-k-frequent-words) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/agagupta92/LeetCode_repository/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Design
 |  |
@@ -135,12 +138,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/agagupta92/LeetCode_repository/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/agagupta92/LeetCode_repository/tree/master/0692-top-k-frequent-words) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/agagupta92/LeetCode_repository/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sorting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/agagupta92/LeetCode_repository/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agagupta92/LeetCode_repository/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/agagupta92/LeetCode_repository/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/agagupta92/LeetCode_repository/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -148,12 +153,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/agagupta92/LeetCode_repository/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/agagupta92/LeetCode_repository/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agagupta92/LeetCode_repository/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/agagupta92/LeetCode_repository/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/agagupta92/LeetCode_repository/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/agagupta92/LeetCode_repository/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/agagupta92/LeetCode_repository/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/agagupta92/LeetCode_repository/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -171,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agagupta92/LeetCode_repository/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/agagupta92/LeetCode_repository/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
