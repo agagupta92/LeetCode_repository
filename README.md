@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/agagupta92/LeetCode_repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/agagupta92/LeetCode_repository/tree/master/0692-top-k-frequent-words) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/agagupta92/LeetCode_repository/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/agagupta92/LeetCode_repository/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Design
 |  |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/agagupta92/LeetCode_repository/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/agagupta92/LeetCode_repository/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/agagupta92/LeetCode_repository/tree/master/0287-find-the-duplicate-number) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/agagupta92/LeetCode_repository/tree/master/1739-split-two-strings-to-make-palindrome) |
 ## Stack
 |  |
 | ------- |
