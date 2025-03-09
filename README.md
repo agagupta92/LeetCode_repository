@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agagupta92/LeetCode_repository/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0137-single-number-ii](https://github.com/agagupta92/LeetCode_repository/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/agagupta92/LeetCode_repository/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/agagupta92/LeetCode_repository/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/agagupta92/LeetCode_repository/tree/master/0347-top-k-frequent-elements) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/agagupta92/LeetCode_repository/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/agagupta92/LeetCode_repository/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/agagupta92/LeetCode_repository/tree/master/0476-number-complement) |
 ## Prefix Sum
