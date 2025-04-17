@@ -123,11 +123,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/agagupta92/LeetCode_repository/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/agagupta92/LeetCode_repository/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/agagupta92/LeetCode_repository/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/agagupta92/LeetCode_repository/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/agagupta92/LeetCode_repository/tree/master/0060-permutation-sequence) |
 | [1014-k-closest-points-to-origin](https://github.com/agagupta92/LeetCode_repository/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
