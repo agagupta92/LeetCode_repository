@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/agagupta92/LeetCode_repository/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/agagupta92/LeetCode_repository/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/agagupta92/LeetCode_repository/tree/master/0347-top-k-frequent-elements) |
+| [0409-longest-palindrome](https://github.com/agagupta92/LeetCode_repository/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/agagupta92/LeetCode_repository/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/agagupta92/LeetCode_repository/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/agagupta92/LeetCode_repository/tree/master/0692-top-k-frequent-words) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/agagupta92/LeetCode_repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0409-longest-palindrome](https://github.com/agagupta92/LeetCode_repository/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/agagupta92/LeetCode_repository/tree/master/0692-top-k-frequent-words) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/agagupta92/LeetCode_repository/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/agagupta92/LeetCode_repository/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -196,4 +198,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/agagupta92/LeetCode_repository/tree/master/0216-combination-sum-iii) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/agagupta92/LeetCode_repository/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
