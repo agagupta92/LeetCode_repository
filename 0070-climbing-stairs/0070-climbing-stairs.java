@@ -1,6 +1,6 @@
 class Solution {
 
-      int fib(int n, int dp[])
+      int fib(int n)
     {
         if(n<=2)
          return n;
@@ -23,9 +23,9 @@ class Solution {
     }
     
     public int climbStairs(int n) {
-        int dp[] = new int[n+1];
+       
       
-        return fib(n,dp);
+        return fib(n);
         
 
     }
