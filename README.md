@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/agagupta92/LeetCode_repository/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/agagupta92/LeetCode_repository/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/agagupta92/LeetCode_repository/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/agagupta92/LeetCode_repository/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
@@ -211,4 +212,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/agagupta92/LeetCode_repository/tree/master/0409-longest-palindrome) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/agagupta92/LeetCode_repository/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2475-largest-palindromic-number](https://github.com/agagupta92/LeetCode_repository/tree/master/2475-largest-palindromic-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/agagupta92/LeetCode_repository/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/agagupta92/LeetCode_repository/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
